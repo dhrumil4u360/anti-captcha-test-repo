@@ -41,6 +41,7 @@ ac.setAPIKey(API_KEY);
     console.log('Recaptcha site key : ', config.siteKey);
 
     let gresponse = await solveWithoutProxy(config);
+    //let gresponse = await solveWithProxy(config); /* Use this method to try with proxy */
 
     console.log('Response from anti-captcha : ', gresponse);
 
