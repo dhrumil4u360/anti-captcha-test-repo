@@ -4,7 +4,8 @@ This is test repo for anti-captcha team to review issue quickly. This is simple 
 # How to run
 
 - Step 1 : npm install
-- Step 2 : node index.js
+- Step 2 : Add Anti captcha key at the start of script in `Configuration` section. You can provide proxy setting here as well if you wish to
+- Step 3 : node index.js
 
 # What it does ?
 
