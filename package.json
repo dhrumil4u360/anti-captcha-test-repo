@@ -1,0 +1,15 @@
+{
+  "name": "idealistatest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@antiadmin/anticaptchaofficial": "^1.0.9",
+    "puppeteer": "^5.3.1"
+  }
+}
